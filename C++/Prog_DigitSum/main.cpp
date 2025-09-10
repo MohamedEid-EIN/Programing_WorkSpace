@@ -1,3 +1,6 @@
+/* Program: 1 
+ * Create program to ask the user for number and then get the digits in the 
+ * number and return the sum of all numbers */
 #include <iostream>
 #include <vector>
 
